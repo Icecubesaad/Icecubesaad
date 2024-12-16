@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">👋 I’m Saad Ur Rehman, a MERN stack developer with over 2 years of experience, currently diving into data science and machine learning. Passionate about creating dynamic web applications and exploring new technologies.</h3>
+<h3 align="left">👋 I’m Saad Ur Rehman, a MERN stack developer with over 4 years of experience, currently diving into data science and machine learning. Passionate about creating dynamic web applications and exploring new technologies.</h3>
 
 ###
 
